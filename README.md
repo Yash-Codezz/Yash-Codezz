@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yash-Codezz/Yash-Codezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+██╗   ██╗ █████╗ ███████╗██╗  ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║
+ ╚████╔╝ ███████║███████╗███████║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║
+   ██║   ██║  ██║███████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+                            Thakur
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aspiring Machine Learning Engineer  |  Building End-to-End ML Projects
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-thakur-bb7769385)
+
+</div>
