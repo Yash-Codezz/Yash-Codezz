@@ -12,4 +12,7 @@
 ```
 
 ### Aspiring Machine Learning Engineer  ||  Building End-to-End ML Projects
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-thakur-b1417644a/)
+
 </div>
